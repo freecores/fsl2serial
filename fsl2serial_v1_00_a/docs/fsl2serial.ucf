@@ -1,0 +1,7 @@
+#### Module FSL2Serial Constraints ####
+
+NET "rs232_tx_data_o_pin" LOC = "AE7" | IOSTANDARD = LVCMOS25 | DRIVE = 8 | SLEW = SLOW;
+NET "rs232_rx_data_i_pin" LOC = "AJ8" | IOSTANDARD = LVCMOS25 | DRIVE = 8 | SLEW = SLOW;
+NET "rs232_rts_i_pin" LOC = "AK8" | IOSTANDARD = LVCMOS25 | DRIVE = 8 | SLEW = SLOW;
+NET "rs232_cts_o_pin" LOC = "AE8" | IOSTANDARD = LVCMOS25 | DRIVE = 8 | SLEW = SLOW;
+

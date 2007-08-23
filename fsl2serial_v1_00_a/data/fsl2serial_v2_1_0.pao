@@ -1,0 +1,11 @@
+##############################################################################
+## Filename:          /home/amarschn/projects/OpenFire_OPB/openfire_2/pcores/fsl2serial_v1_00_a/data/fsl2serial_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Thu Feb 22 14:37:13 2007 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib fsl2serial_v1_00_a fsl2serial verilog
+lib fsl2serial_v1_00_a fsl_ctrl verilog
+lib fsl2serial_v1_00_a serial_ctrl verilog
+lib fsl2serial_v1_00_a serial_in verilog
+lib fsl2serial_v1_00_a serial_out verilog

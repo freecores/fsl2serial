@@ -1,0 +1,4 @@
+ PORT rs232_tx_data_o_pin = rs232_tx_data_o, DIR = O
+ PORT rs232_rx_data_i_pin = rs232_rx_data_i, DIR = I
+ PORT rs232_rts_i_pin = rs232_rts_i, DIR = I
+ PORT rs232_cts_o_pin = rs232_cts_o, DIR = O
